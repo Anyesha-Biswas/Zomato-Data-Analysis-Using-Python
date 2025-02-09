@@ -1,0 +1,13 @@
+                    name online_order book_table  rate  votes  \
+0                  Jalsa          Yes        Yes   4.1    775   
+1         Spice Elephant          Yes         No   4.1    787   
+2        San Churro Cafe          Yes         No   3.8    918   
+3  Addhuri Udupi Bhojana           No         No   3.7     88   
+4          Grand Village           No         No   3.8    166   
+
+   approx_cost(for two people) listed_in(type)  
+0                          800          Buffet  
+1                          800          Buffet  
+2                          800          Buffet  
+3                          300          Buffet  
+4                          600          Buffet  
